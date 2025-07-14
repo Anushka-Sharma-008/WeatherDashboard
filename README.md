@@ -57,6 +57,8 @@ A real-time, interactive **Weather Dashboard** built using **Power BI** and **We
 
 📁 Weather Dashboard Repository  
 ├── 📄 README.md                               # Project Documentation  
+├── 📷 Snapshot of Weather Dashboard _ Ahmedabad.png   # Dashboard Screenshot  
+├── 📷 Snapshot of Weather Dashboard _ Chennai.png   # Dashboard Screenshot  
 ├── 📷 Snapshot of Weather Dashboard _ Mumbai.png   # Dashboard Screenshot  
 └── 📄 Weather Dashboard.pbit                  # Power BI Template File
 
